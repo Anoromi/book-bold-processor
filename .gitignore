@@ -1,5 +1,5 @@
-data/
-input/
+#data/
+#input/
 other-inputs/
-output/
+#output/
 validation/
